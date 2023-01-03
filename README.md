@@ -1,3 +1,17 @@
+#You can use this bot for by samee device try this
+https://web.telegram.org/k/#@DeMetaShopBot
+
+# project in this link
+https://de-meta.netlify.app
+
+![photo_5303208631514285441_y](https://user-images.githubusercontent.com/76915977/210291383-152b9d41-a689-4654-b189-a9a74d6bd8ae.jpg)
+
+![photo_5303208631514285440_y](https://user-images.githubusercontent.com/76915977/210291389-d10871b2-19fa-4e46-a813-be107460ba36.jpg)
+
+![photo_5303208631514285439_y](https://user-images.githubusercontent.com/76915977/210291395-d75028d0-6c5a-4a24-9836-b8180ce93399.jpg)
+
+![photo_5303208631514285438_y](https://user-images.githubusercontent.com/76915977/210291405-2d85ab9c-22a1-4fc9-8f2b-a90df775b350.jpg)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
