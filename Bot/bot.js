@@ -1,5 +1,5 @@
 const { Telegraf } = require("telegraf");
-const TOKEN = "5803840458:AAFWg02EyFtzzbGHtuPWnDSMwoM3bxsJN_8";
+const TOKEN = "#";
 const bot = new Telegraf(TOKEN);
 
 const web_link = "https://de-meta.netlify.app/";
